@@ -6,4 +6,11 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\MonitoramentoPaciente.Application\MonitoramentoPaciente.Application.csproj" />
+      <ProjectReference Include="..\MonitoramentoPaciente.Domain.Core\MonitoramentoPaciente.Domain.Core.csproj" />
+      <ProjectReference Include="..\MonitoramentoPaciente.Domain.Services\MonitoramentoPaciente.Domain.Services.csproj" />
+      <ProjectReference Include="..\MonitoramentoPaciente.Domain\MonitoramentoPaciente.Domain.csproj" />
+    </ItemGroup>
+
 </Project>
