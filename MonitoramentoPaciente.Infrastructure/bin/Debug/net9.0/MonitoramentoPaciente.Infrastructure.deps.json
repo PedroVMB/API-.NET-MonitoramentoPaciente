@@ -646,7 +646,9 @@
       },
       "MonitoramentoPaciente.Application/1.0.0": {
         "dependencies": {
-          "MonitoramentoPaciente.Domain.Core": "1.0.0"
+          "Microsoft.Extensions.Configuration.Abstractions": "9.0.3",
+          "MonitoramentoPaciente.Domain.Core": "1.0.0",
+          "System.IdentityModel.Tokens.Jwt": "6.35.0"
         },
         "runtime": {
           "MonitoramentoPaciente.Application.dll": {
@@ -656,6 +658,9 @@
         }
       },
       "MonitoramentoPaciente.Domain/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Identity.Stores": "9.0.3"
+        },
         "runtime": {
           "MonitoramentoPaciente.Domain.dll": {
             "assemblyVersion": "1.0.0.0",

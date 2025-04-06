@@ -10,3 +10,4 @@ C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente
 C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain\obj\Debug\net9.0\refint\MonitoramentoPaciente.Domain.dll
 C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain\obj\Debug\net9.0\MonitoramentoPaciente.Domain.pdb
 C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain\obj\Debug\net9.0\ref\MonitoramentoPaciente.Domain.dll
+C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain\obj\Debug\net9.0\MonitoramentoPaciente.Domain.csproj.AssemblyReference.cache

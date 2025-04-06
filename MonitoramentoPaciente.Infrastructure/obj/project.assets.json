@@ -1088,7 +1088,9 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
-          "MonitoramentoPaciente.Domain.Core": "1.0.0"
+          "Microsoft.Extensions.Configuration.Abstractions": "9.0.3",
+          "MonitoramentoPaciente.Domain.Core": "1.0.0",
+          "System.IdentityModel.Tokens.Jwt": "6.35.0"
         },
         "compile": {
           "bin/placeholder/MonitoramentoPaciente.Application.dll": {}
