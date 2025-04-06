@@ -10,4 +10,10 @@
       <ProjectReference Include="..\MonitoramentoPaciente.Domain.Core\MonitoramentoPaciente.Domain.Core.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Dtos\" />
+      <Folder Include="Interfaces\" />
+      <Folder Include="Mapper\" />
+    </ItemGroup>
+
 </Project>
