@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TfE84u1T3yg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pedro\\dev\\Projetos\\Monitoramento de Pacientes\\API-MonitoramentoPaciente\\MonitoramentoPaciente.API\\MonitoramentoPaciente.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
