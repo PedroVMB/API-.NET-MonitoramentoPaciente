@@ -1,0 +1,16 @@
+C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain.Core\bin\Debug\net9.0\MonitoramentoPaciente.Domain.Core.deps.json
+C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain.Core\bin\Debug\net9.0\MonitoramentoPaciente.Domain.Core.dll
+C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain.Core\bin\Debug\net9.0\MonitoramentoPaciente.Domain.Core.pdb
+C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain.Core\bin\Debug\net9.0\MonitoramentoPaciente.Domain.dll
+C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain.Core\bin\Debug\net9.0\MonitoramentoPaciente.Domain.pdb
+C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain.Core\obj\Debug\net9.0\MonitoramentoPaciente.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain.Core\obj\Debug\net9.0\MonitoramentoPaciente.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain.Core\obj\Debug\net9.0\MonitoramentoPaciente.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain.Core\obj\Debug\net9.0\MonitoramentoPaciente.Domain.Core.AssemblyInfo.cs
+C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain.Core\obj\Debug\net9.0\MonitoramentoPaciente.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain.Core\obj\Debug\net9.0\MonitoramentoPaciente.Domain.Core.sourcelink.json
+C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain.Core\obj\Debug\net9.0\Monitora.A1D6CBF7.Up2Date
+C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain.Core\obj\Debug\net9.0\MonitoramentoPaciente.Domain.Core.dll
+C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain.Core\obj\Debug\net9.0\refint\MonitoramentoPaciente.Domain.Core.dll
+C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain.Core\obj\Debug\net9.0\MonitoramentoPaciente.Domain.Core.pdb
+C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain.Core\obj\Debug\net9.0\ref\MonitoramentoPaciente.Domain.Core.dll

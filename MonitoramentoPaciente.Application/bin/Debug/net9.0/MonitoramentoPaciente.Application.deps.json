@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MonitoramentoPaciente.Application/1.0.0": {
+        "dependencies": {
+          "MonitoramentoPaciente.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "MonitoramentoPaciente.Application.dll": {}
+        }
+      },
+      "MonitoramentoPaciente.Domain/1.0.0": {
+        "runtime": {
+          "MonitoramentoPaciente.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MonitoramentoPaciente.Domain.Core/1.0.0": {
+        "dependencies": {
+          "MonitoramentoPaciente.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MonitoramentoPaciente.Domain.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MonitoramentoPaciente.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MonitoramentoPaciente.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MonitoramentoPaciente.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

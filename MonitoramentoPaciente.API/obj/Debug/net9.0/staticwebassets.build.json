@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "V3My4za+aDN9qs2fPuC1E1qwOU7EewPA4mMgMhdh71Q=",
+  "Source": "MonitoramentoPaciente.API",
+  "BasePath": "_content/MonitoramentoPaciente.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
