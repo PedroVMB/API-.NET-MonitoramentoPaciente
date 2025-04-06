@@ -1100,6 +1100,9 @@
       "MonitoramentoPaciente.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Microsoft.Extensions.Identity.Stores": "9.0.3"
+        },
         "compile": {
           "bin/placeholder/MonitoramentoPaciente.Domain.dll": {}
         },
