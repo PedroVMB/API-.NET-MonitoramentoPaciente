@@ -1,4 +1,5 @@
 C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Infrastructure\bin\Debug\net9.0\MonitoramentoPaciente.Infrastructure.deps.json
+C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Infrastructure\bin\Debug\net9.0\MonitoramentoPaciente.Infrastructure.runtimeconfig.json
 C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Infrastructure\bin\Debug\net9.0\MonitoramentoPaciente.Infrastructure.dll
 C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Infrastructure\bin\Debug\net9.0\MonitoramentoPaciente.Infrastructure.pdb
 C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Infrastructure\bin\Debug\net9.0\MonitoramentoPaciente.Application.dll
@@ -19,4 +20,5 @@ C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente
 C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Infrastructure\obj\Debug\net9.0\MonitoramentoPaciente.Infrastructure.dll
 C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Infrastructure\obj\Debug\net9.0\refint\MonitoramentoPaciente.Infrastructure.dll
 C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Infrastructure\obj\Debug\net9.0\MonitoramentoPaciente.Infrastructure.pdb
+C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Infrastructure\obj\Debug\net9.0\MonitoramentoPaciente.Infrastructure.genruntimeconfig.cache
 C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Infrastructure\obj\Debug\net9.0\ref\MonitoramentoPaciente.Infrastructure.dll

@@ -1,6 +1,7 @@
 C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain\bin\Debug\net9.0\MonitoramentoPaciente.Domain.deps.json
 C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain\bin\Debug\net9.0\MonitoramentoPaciente.Domain.dll
 C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain\bin\Debug\net9.0\MonitoramentoPaciente.Domain.pdb
+C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain\obj\Debug\net9.0\MonitoramentoPaciente.Domain.csproj.AssemblyReference.cache
 C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain\obj\Debug\net9.0\MonitoramentoPaciente.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain\obj\Debug\net9.0\MonitoramentoPaciente.Domain.AssemblyInfoInputs.cache
 C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain\obj\Debug\net9.0\MonitoramentoPaciente.Domain.AssemblyInfo.cs
@@ -10,4 +11,3 @@ C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente
 C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain\obj\Debug\net9.0\refint\MonitoramentoPaciente.Domain.dll
 C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain\obj\Debug\net9.0\MonitoramentoPaciente.Domain.pdb
 C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain\obj\Debug\net9.0\ref\MonitoramentoPaciente.Domain.dll
-C:\Users\pedro\dev\Projetos\Monitoramento de Pacientes\API-MonitoramentoPaciente\MonitoramentoPaciente.Domain\obj\Debug\net9.0\MonitoramentoPaciente.Domain.csproj.AssemblyReference.cache
