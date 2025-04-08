@@ -3,10 +3,10 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using MonitoramentoPaciente.Application.AuthServices;
 using MonitoramentoPaciente.Infrastructure.Data;
 using MonitoramentoPaciente.Domain.Entitys;
 using MonitoramentoPaciente.Application.Interfaces;
-using MonitoramentoPaciente.Application.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 ConfigurationManager configuration = builder.Configuration;

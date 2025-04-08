@@ -9,7 +9,7 @@ using MonitoramentoPaciente.Application.Dtos;
 using MonitoramentoPaciente.Application.Interfaces;
 using MonitoramentoPaciente.Domain.Entitys;
 
-namespace MonitoramentoPaciente.Application.Services;
+namespace MonitoramentoPaciente.Application.AuthServices;
 
 public class AuthService : IAuthService
 {
