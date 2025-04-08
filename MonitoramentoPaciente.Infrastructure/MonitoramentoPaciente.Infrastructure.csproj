@@ -15,7 +15,6 @@
 
     <ItemGroup>
       <Folder Include="CrossCutting\IOC\" />
-      <Folder Include="Data\Repositorys\" />
     </ItemGroup>
 
     <ItemGroup>
