@@ -32,7 +32,7 @@ public class ServiceBase<TEntity> : IServiceBase<TEntity> where TEntity : class
         return repository.GetAll();
     }
 
-    public TEntity GetById(int id)
+    public TEntity GetById(Guid id)
     {
         return repository.GetById(id);
     }

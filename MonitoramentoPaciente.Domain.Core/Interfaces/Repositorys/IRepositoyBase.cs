@@ -6,5 +6,5 @@ public interface IRepositoryBase<TEntity> where TEntity : class
     void Update(TEntity entity);
     void Delete(TEntity entity);
     IEnumerable<TEntity> GetAll();
-    TEntity GetById(int id);
+    TEntity GetById(Guid id);
 }
