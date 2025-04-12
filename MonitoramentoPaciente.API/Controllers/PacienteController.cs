@@ -7,7 +7,7 @@ namespace MonitoramentoPaciente.API.Controllers;
 
 [Route("api/[controller]")]
 [ApiController]
-[Authorize(Roles = "Admin")] 
+[Authorize(Roles = "Admin,Profissional")] 
 public class PacienteController : ControllerBase
 {
     private readonly IApplicationServicePaciente _applicationService;
