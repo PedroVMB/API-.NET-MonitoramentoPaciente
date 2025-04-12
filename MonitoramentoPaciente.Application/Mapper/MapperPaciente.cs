@@ -10,24 +10,22 @@ public class MapperPaciente : IMapperPaciente
     
     public Paciente MapperDtoToEntity(PacienteDto dto)
     {
-       var paciente = new Paciente
-       {
-           Id = dto.Id.Value,
-           Nome = dto.Nome,
-           Email = dto.Email,
-           Genero = dto.Genero,
-           DataNascimento = dto.DataNascimento,
-           Idade = dto.Idade,
-           Altura = dto.Altura,
-           Usuario = dto.Usuario,
-           Consultas = dto.Consultas,
-           DadosVitais = dto.DadosVitais,
-           Dietas = dto.Dietas,
-           Exercicios = dto.Exercicios,
-           Notificacoes = dto.Notificacoes,
-       };
-       
-       return paciente;
+        return new Paciente
+        {
+            Id = dto.Id ?? Guid.NewGuid(),
+            Nome = dto.Nome,
+            Email = dto.Email,
+            Genero = dto.Genero,
+            DataNascimento = dto.DataNascimento,
+            Idade = dto.Idade,
+            Altura = dto.Altura,
+            Usuario = dto.Usuario,
+            Consultas = dto.Consultas ?? new List<Consulta>(),
+            DadosVitais = dto.DadosVitais ?? new List<DadoVital>(),
+            Dietas = dto.Dietas ?? new List<Dieta>(),
+            Exercicios = dto.Exercicios ?? new List<Exercicio>(),
+            Notificacoes = dto.Notificacoes ?? new List<Notificacao>(),
+        };
     }
 
     public IEnumerable<PacienteDto> MapperListTEntityDto(IEnumerable<Paciente> listTEntities)
@@ -54,7 +52,7 @@ public class MapperPaciente : IMapperPaciente
 
     public PacienteDto MapperEntityToDto(Paciente tEntity)
     {
-        var paciente = new PacienteDto
+        return new PacienteDto
         {
             Id = tEntity.Id,
             Nome = tEntity.Nome,
@@ -64,13 +62,11 @@ public class MapperPaciente : IMapperPaciente
             Idade = tEntity.Idade,
             Altura = tEntity.Altura,
             Usuario = tEntity.Usuario,
-            Consultas = tEntity.Consultas,
-            DadosVitais = tEntity.DadosVitais,
-            Dietas = tEntity.Dietas,
-            Exercicios = tEntity.Exercicios,
-            Notificacoes = tEntity.Notificacoes,
+            Consultas = tEntity.Consultas ?? new List<Consulta>(),
+            DadosVitais = tEntity.DadosVitais ?? new List<DadoVital>(),
+            Dietas = tEntity.Dietas ?? new List<Dieta>(),
+            Exercicios = tEntity.Exercicios ?? new List<Exercicio>(),
+            Notificacoes = tEntity.Notificacoes ?? new List<Notificacao>(),
         };
-       
-        return paciente;
     }
 }

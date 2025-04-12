@@ -17,4 +17,6 @@ public class PacienteDto : PessoaDto
     public ICollection<Dieta>? Dietas { get; set; }
     public ICollection<Exercicio>? Exercicios { get; set; }
     public ICollection<Notificacao>? Notificacoes { get; set; }
+    
+    
 }
