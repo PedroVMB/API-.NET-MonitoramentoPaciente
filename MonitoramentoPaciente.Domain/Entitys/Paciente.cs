@@ -1,9 +1,7 @@
 ﻿namespace MonitoramentoPaciente.Domain.Entitys;
 
-public class Paciente : Base
+public class Paciente : Pessoa
 {
-    public string Genero { get; set; } = string.Empty;
-    public DateTime DataNascimento { get; set; }
     public string HistoricoSaude { get; set; } = string.Empty;
     public string Metas { get; set; } = string.Empty;
 
