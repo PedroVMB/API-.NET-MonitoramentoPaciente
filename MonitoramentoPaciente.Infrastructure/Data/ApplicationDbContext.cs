@@ -13,6 +13,7 @@ public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     }
 
     public DbSet<Paciente> Pacientes => Set<Paciente>();
+    public DbSet<Pessoa> Pessoas => Set<Pessoa>();
     public DbSet<ProfissionalSaude> Profissionais => Set<ProfissionalSaude>();
     public DbSet<Consulta> Consultas => Set<Consulta>();
     public DbSet<DadoVital> DadosVitais => Set<DadoVital>();
@@ -24,15 +25,15 @@ public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         base.OnModelCreating(builder);
         
-        builder.Entity<Paciente>()
-            .HasOne(p => p.Usuario)
-            .WithOne(u => u.Paciente)
-            .HasForeignKey<Paciente>(p => p.UsuarioId);
-
         builder.Entity<ProfissionalSaude>()
             .HasOne(p => p.Usuario)
             .WithOne(u => u.ProfissionalDeSaude)
             .HasForeignKey<ProfissionalSaude>(p => p.UsuarioId);
+        
+        builder.Entity<Paciente>()
+            .HasOne(p => p.Usuario)
+            .WithOne(u => u.Paciente)
+            .HasForeignKey<Paciente>(p => p.UsuarioId);
         
         builder.Entity<Paciente>()
             .HasMany(p => p.Consultas)
