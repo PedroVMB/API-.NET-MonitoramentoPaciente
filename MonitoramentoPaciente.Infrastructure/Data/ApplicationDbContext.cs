@@ -13,7 +13,6 @@ public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     }
 
     public DbSet<Paciente> Pacientes => Set<Paciente>();
-    public DbSet<Pessoa> Pessoas => Set<Pessoa>();
     public DbSet<ProfissionalSaude> Profissionais => Set<ProfissionalSaude>();
     public DbSet<Consulta> Consultas => Set<Consulta>();
     public DbSet<DadoVital> DadosVitais => Set<DadoVital>();
