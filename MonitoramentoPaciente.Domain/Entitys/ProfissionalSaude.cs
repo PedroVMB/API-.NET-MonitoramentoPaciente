@@ -1,6 +1,6 @@
 ﻿namespace MonitoramentoPaciente.Domain.Entitys;
 
-public class ProfissionalSaude : Base
+public class ProfissionalSaude : Pessoa
 {
     public string Nome { get; set; } = string.Empty;
     public string Especialidade { get; set; } = string.Empty;
